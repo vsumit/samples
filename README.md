@@ -1,2 +1,2 @@
 # samples
-Repository for applets
+Repository for samples
